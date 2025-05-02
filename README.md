@@ -3,7 +3,7 @@
 git clone git@github.com:CoDedArch/AI-ML-Weather-Prediction-Model.git
 ```
 
-#Install Requirements
+# Install Requirements
 ```python
 pip install -r requirements.txt
 ```
